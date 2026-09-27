@@ -55,12 +55,12 @@ I am a hands-on cybersecurity specialist focused on **Infrastructure Penetration
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Voobrazhenie21-lab">Active Directory Attacks & Hardening</a></h3>
-      <p><b>Enterprise AD Domain Exploitation Lab</b></p>
+      <h3>🌐 <a href="https://github.com/Voobrazhenie21-lab/enterprise-pentest-report">Active Directory Pentest & Threat Assessment</a></h3>
+      <p><b>Enterprise AD Domain Exploitation & PTES Report</b></p>
       <ul>
         <li>Mapped domain ACLs and privilege escalation paths using BloodHound CE & SharpHound.</li>
         <li>Executed Pass-the-Hash, Pass-the-Ticket (Mimikatz), NTLM Relay, and Kerberoasting.</li>
-        <li>Formulated domain hardening strategies: SMB signing, LAPS, Credential Guard, gMSA.</li>
+        <li>Full audit report with CVSS v3.1 scoring and domain hardening: SMB signing, LAPS, gMSA.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -107,7 +107,7 @@ I am a hands-on cybersecurity specialist focused on **Infrastructure Penetration
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Voobrazhenie21-lab&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Security_Projects-PipeShield_%7C_Log_Sentinel-blue?style=flat-square&logo=github" alt="Security Projects" />
+  <img src="https://img.shields.io/badge/Security_Projects-PipeShield_%7C_Pentest_Report-blue?style=flat-square&logo=github" alt="Security Projects" />
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
