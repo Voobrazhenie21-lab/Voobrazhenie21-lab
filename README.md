@@ -99,11 +99,16 @@ I am a hands-on cybersecurity specialist focused on **Infrastructure Penetration
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Voobrazhenie21-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voobrazhenie21-lab&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Voobrazhenie21-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Voobrazhenie21-lab&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Security_Projects-PipeShield_%7C_Log_Sentinel-blue?style=flat-square&logo=github" alt="Security Projects" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 ---
