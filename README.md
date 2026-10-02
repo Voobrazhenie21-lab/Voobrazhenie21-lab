@@ -56,7 +56,7 @@ I am a hands-on cybersecurity specialist focused on **Infrastructure Penetration
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Voobrazhenie21-lab/enterprise-pentest-report">Active Directory Pentest & Threat Assessment</a></h3>
-      <p><b>Enterprise AD Domain Exploitation & PTES Report</b></p>
+      <p><b>Enterprise AD Domain Exploitation & PTES Report</b> &bull; <a href="https://voobrazhenie21-lab.github.io/enterprise-pentest-report/">[Live Report]</a></p>
       <ul>
         <li>Mapped domain ACLs and privilege escalation paths using BloodHound CE & SharpHound.</li>
         <li>Executed Pass-the-Hash, Pass-the-Ticket (Mimikatz), NTLM Relay, and Kerberoasting.</li>
