@@ -64,12 +64,12 @@ I am a hands-on cybersecurity specialist focused on **Infrastructure Penetration
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/Voobrazhenie21-lab">Blue Team Monitoring (Wazuh SIEM)</a></h3>
-      <p><b>21-Host Enterprise Security Monitoring Lab</b></p>
+      <h3>👁️ <a href="https://github.com/Voobrazhenie21-lab/blue-team-incident-investigation">Blue Team Incident Investigation (DFIR)</a></h3>
+      <p><b>Wazuh SIEM & NIST SP 800-61r2 Incident Report</b> &bull; <a href="https://voobrazhenie21-lab.github.io/blue-team-incident-investigation/">[Live Report]</a></p>
       <ul>
-        <li>Centralized Wazuh SIEM deployment with FIM, auditd, and Windows Advanced Audit Policy.</li>
-        <li>Automated brute-force mitigation using Fail2ban.</li>
-        <li>Incident correlation and case management in TheHive with Jupyter playbooks.</li>
+        <li>Investigated multi-stage intrusion: Web Shell upload, RDP lateral movement, Defender evasion (Event 5001).</li>
+        <li>Centralized Wazuh SIEM deployment with FIM, Sysmon (Events 1, 3, 11), and TheHive IRP.</li>
+        <li>Constructed full MITRE ATT&CK timeline, IoC matrix, and hardening roadmap.</li>
       </ul>
     </td>
   </tr>
