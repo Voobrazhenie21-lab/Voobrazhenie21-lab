@@ -6,10 +6,10 @@
   </p>
 
   <p align="center">
+    <a href="https://voobrazhenie21-lab.github.io/"><img src="https://img.shields.io/badge/Portfolio_Website-voobrazhenie21--lab.github.io-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
     <a href="https://www.linkedin.com/in/aleksei-zharkou/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/Voobrazhenie_20"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:lyosha.zharkov.98@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Voobrazhenie21-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
