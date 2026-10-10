@@ -66,13 +66,13 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/Voobrazhenie21-lab">Log Sentinel</a></h3>
-      <p><b>Python Threat Detection & Incident Triage Tool</b></p>
+      <h3>🔍 <a href="https://github.com/Voobrazhenie21-lab/log-sentinel">Log Sentinel</a></h3>
+      <p><b>Python Threat Detection &amp; SOC L1/L2 Triage Engine</b> &bull; <a href="https://voobrazhenie21-lab.github.io/log-sentinel/">[Live Demo]</a></p>
       <ul>
-        <li>Zero-dependency CLI tool parsing Linux <code>auth.log</code> & Windows Security Events (4625/4769).</li>
-        <li>Detects SSH brute force, password spraying, and Kerberoasting (RC4 TGS <code>0x17</code>).</li>
-        <li>Extracts structured forensic evidence with remediation guidance in JSON.</li>
-        <li><i>Tech:</i> Python Standard Library, Regex, Windows Event Logging.</li>
+        <li>Zero-dependency CLI engine correlating Linux <code>auth.log</code>, Apache <code>access.log</code> &amp; Windows Security/Defender/WER events.</li>
+        <li>8 built-in rules: Web Shell uploads, SSH/RDP brute-force, Kerberoasting (<code>0x17</code>), Pass-the-Hash (Rule 92652), WER AppCrash &amp; <code>\\tsclient</code> Mimikatz.</li>
+        <li>Exports SOAR-ready JSON &amp; interactive dark-mode HTML SOC dashboards.</li>
+        <li><i>Tech:</i> Python Standard Library, Pytest CI, MITRE ATT&amp;CK &amp; Wazuh mapped.</li>
       </ul>
     </td>
   </tr>
