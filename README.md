@@ -65,11 +65,11 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/Voobrazhenie21-lab/log-sentinel">Log Sentinel</a></h3>
+      <h3>🔍 <a href="https://github.com/Voobrazhenie21-lab/log-sentinel">Log Sentinel v1.3</a></h3>
       <p><b>Python Threat Detection &amp; SOC L1/L2 Triage Engine</b> &bull; <a href="https://voobrazhenie21-lab.github.io/log-sentinel/">[Live Demo]</a></p>
       <ul>
-        <li>Zero-dependency CLI engine correlating Linux <code>auth.log</code>, Apache <code>access.log</code> &amp; Windows Security/Defender/WER events.</li>
-        <li>8 built-in rules: Web Shell uploads, SSH/RDP brute-force, Kerberoasting (<code>0x17</code>), Pass-the-Hash (Rule 92652), WER AppCrash &amp; <code>\\tsclient</code> Mimikatz.</li>
+        <li>Zero-dependency CLI engine correlating Linux <code>auth.log</code>, Apache <code>access.log</code> &amp; Windows Security/Sysmon/Defender/WER events.</li>
+        <li><b>10 built-in rules:</b> Web Shell uploads, SSH/RDP brute-force, Kerberoasting (<code>0x17</code>), <b>AS-REP Roasting (<code>4768</code>)</b>, Pass-the-Hash (Rule 92652), <b>Sysmon <code>Event ID 10</code> LSASS access</b>, WER AppCrash &amp; <code>\\tsclient</code> Mimikatz.</li>
         <li>Exports SOAR-ready JSON &amp; interactive dark-mode HTML SOC dashboards.</li>
         <li><i>Tech:</i> Python Standard Library, Pytest CI, MITRE ATT&amp;CK &amp; Wazuh mapped.</li>
       </ul>
