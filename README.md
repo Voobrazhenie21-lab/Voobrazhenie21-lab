@@ -55,14 +55,13 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Voobrazhenie21-lab/pipeshield">PipeShield</a></h3>
-      <p><b>Next-Gen DevSecOps Pipeline Security Scanner</b> &bull; <a href="https://voobrazhenie21-lab.github.io/pipeshield/">[Live Demo]</a></p>
+      <h3>🛡️ <a href="https://github.com/Voobrazhenie21-lab/pipeshield">PipeShield v1.1</a></h3>
+      <p><b>DevSecOps, Container &amp; JS Bundle Recon Scanner</b> &bull; <a href="https://voobrazhenie21-lab.github.io/pipeshield/">[Live Demo]</a></p>
       <ul>
-        <li>Static security analysis (SAST) auditing code, Dockerfiles, and CI/CD pipelines.</li>
-        <li>Shannon entropy engine to eliminate false positives in secret detection.</li>
-        <li>CIS Docker Benchmarks & CI/CD supply chain risk enforcement.</li>
-        <li>Exports to <b>OASIS SARIF 2.1.0</b> (GitHub Code Scanning) & interactive HTML dashboard.</li>
-        <li><i>Tech:</i> Python, Pytest, Click, Rich, GitHub Actions CI/CD.</li>
+        <li>Static security analysis (SAST) auditing code, <code>.js/.ts</code> bundles, Dockerfiles, and CI/CD pipelines.</li>
+        <li><b>New <code>JsReconAnalyzer</code> (v1.1):</b> extracts hidden admin endpoints (<code>/api/v1/admin</code>), DOM XSS sinks (<code>innerHTML</code>/<code>eval</code>), leaked RFC1918 origin IPs, and exposed <code>.map</code> SourceMaps.</li>
+        <li>Shannon entropy engine ($H(X) &gt; 3.8$) + CIS Docker Benchmarks + OASIS SARIF 2.1.0 export.</li>
+        <li><i>Tech:</i> Python, <b>33 Pytest unit tests</b>, Click, Rich, GitHub Actions CI/CD.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
