@@ -24,7 +24,9 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
 - 🛠️ Author of a complete **"Purple Team + DevSecOps" portfolio**:
   - 👁️ **[Blue Team Incident Investigation (`acme.skb`)](https://github.com/Voobrazhenie21-lab/blue-team-incident-investigation)** — end-to-end Wazuh SIEM & host forensics report
   - 🌐 **[Enterprise AD Pentest Report](https://github.com/Voobrazhenie21-lab/enterprise-pentest-report)** — PTES / OWASP / MITRE ATT&CK assessment
+  - ⚡ **[ThreatPulse](https://github.com/Voobrazhenie21-lab/threat-pulse)** — Threat Intelligence & IOC enrichment CLI with Wazuh CDB exporter
   - 🛡️ **[PipeShield](https://github.com/Voobrazhenie21-lab/pipeshield)** — DevSecOps SAST/CI-CD scanner with OASIS SARIF 2.1.0 support
+  - 🔍 **[Log Sentinel](https://github.com/Voobrazhenie21-lab/log-sentinel)** — Zero-dependency SOC L1/L2 threat detection & log correlation engine
 - 🧠 Prior 5-year background in **clinical psychology and university teaching**: brings a strong edge in **human factor analysis (social engineering, phishing)**, meticulous forensic documentation, and stress resilience during incident response.
 - 🎯 Looking for: **Junior SOC Analyst (L1/L2)**, **Incident Responder (DFIR)**, **Junior Penetration Tester**, or **Junior DevSecOps Engineer** roles.
 
@@ -72,6 +74,28 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
         <li><b>10 built-in rules:</b> Web Shell uploads, SSH/RDP brute-force, Kerberoasting (<code>0x17</code>), <b>AS-REP Roasting (<code>4768</code>)</b>, Pass-the-Hash (Rule 92652), <b>Sysmon <code>Event ID 10</code> LSASS access</b>, WER AppCrash &amp; <code>\\tsclient</code> Mimikatz.</li>
         <li>Exports SOAR-ready JSON &amp; interactive dark-mode HTML SOC dashboards.</li>
         <li><i>Tech:</i> Python Standard Library, Pytest CI, MITRE ATT&amp;CK &amp; Wazuh mapped.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Voobrazhenie21-lab/threat-pulse">ThreatPulse v1.0</a></h3>
+      <p><b>Threat Intelligence &amp; SOC IOC Enrichment CLI</b> &bull; <a href="https://github.com/Voobrazhenie21-lab/threat-pulse">[GitHub Repo]</a></p>
+      <ul>
+        <li>Automated triage for IPv4, IPv6, Domains, URLs &amp; Hashes (MD5/SHA1/SHA256) with defanging/refanging.</li>
+        <li><b>Offline Heuristics:</b> Instant filtering of <b>RFC 1918 private IPs</b> (`10/8`, `172.16/12`, `192.168/16`), Bogon ranges, and DGA domain detection via Shannon Entropy ($H(X) &gt; 3.6$).</li>
+        <li>Tor exit node detection, benign research scanner filtering (Shodan, Censys, Shadowserver), and AbuseIPDB integration.</li>
+        <li><b>Wazuh CDB Exporter:</b> exports IOCs directly to Wazuh SIEM list format (<code>/var/ossec/etc/lists/threat_pulse.cdb</code>).</li>
+        <li><i>Tech:</i> Zero dependencies (Python stdlib), 18 Pytest unit tests, SQLite local caching.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/Voobrazhenie21-lab/code-python-project">MyProfile v2.0 (Security OOP)</a></h3>
+      <p><b>Enterprise Python Security &amp; FIM Engine</b> &bull; <a href="https://github.com/Voobrazhenie21-lab/code-python-project">[GitHub Repo]</a></p>
+      <ul>
+        <li>Secure Object-Oriented Architecture implementing strict validation, data sanitization, and PII masking.</li>
+        <li>Cryptographic File Integrity Monitoring (SHA-256 FIM) tracking real-time profile mutations.</li>
+        <li>Automated security unit testing suite verifying edge cases, input sanitization, and tamper resistance.</li>
       </ul>
     </td>
   </tr>
