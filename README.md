@@ -132,8 +132,8 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Voobrazhenie21-lab&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Security_Portfolio-DFIR_%7C_Pentest_%7C_PipeShield-blue?style=flat-square&logo=github" alt="Security Projects" />
+  <img src="https://img.shields.io/badge/Profile_Status-Verified_Portfolio-2563eb?style=flat-square&logo=github" alt="Profile Status" />
+  <img src="https://img.shields.io/badge/Security_Portfolio-DFIR_%7C_Pentest_%7C_ThreatPulse_%7C_PipeShield_%7C_LogSentinel-blue?style=flat-square&logo=github" alt="Security Projects" />
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
