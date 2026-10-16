@@ -7,6 +7,8 @@
 
   <p align="center">
     <a href="https://voobrazhenie21-lab.github.io/"><img src="https://img.shields.io/badge/Portfolio_Website-voobrazhenie21--lab.github.io-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
+    <a href="https://voobrazhenie21-lab.github.io/#threat-radar"><img src="https://img.shields.io/badge/3D_Threat_Radar-Live_Demo-0284c7?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Radar" /></a>
+    <a href="https://pypi.org/project/threatpulse-cli/"><img src="https://img.shields.io/badge/PyPI-threatpulse--cli-blue?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
     <a href="https://www.linkedin.com/in/aleksei-zharkou/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/Voobrazhenie_20"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:lyosha.zharkov.98@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -80,7 +82,7 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Voobrazhenie21-lab/threat-pulse">ThreatPulse v1.0</a></h3>
-      <p><b>Threat Intelligence &amp; SOC IOC Enrichment CLI</b> &bull; <a href="https://github.com/Voobrazhenie21-lab/threat-pulse">[GitHub Repo]</a></p>
+      <p><b>Threat Intelligence &amp; SOC IOC Enrichment CLI</b> &bull; <a href="https://pypi.org/project/threatpulse-cli/">[PyPI Package]</a> &bull; <a href="https://voobrazhenie21-lab.github.io/threat-pulse/">[Live Demo]</a> &bull; <a href="https://github.com/Voobrazhenie21-lab/threat-pulse">[GitHub]</a></p>
       <ul>
         <li>Automated triage for IPv4, IPv6, Domains, URLs &amp; Hashes (MD5/SHA1/SHA256) with defanging/refanging.</li>
         <li><b>Offline Heuristics:</b> Instant filtering of <b>RFC 1918 private IPs</b> (`10/8`, `172.16/12`, `192.168/16`), Bogon ranges, and DGA domain detection via Shannon Entropy ($H(X) &gt; 3.6$).</li>
