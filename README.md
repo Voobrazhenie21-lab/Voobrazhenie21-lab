@@ -92,12 +92,33 @@ I am a hands-on cybersecurity specialist focused on **Blue Team / SOC Incident R
       </ul>
     </td>
     <td width="50%" valign="top">
+      <h3>🍯 <a href="https://github.com/Voobrazhenie21-lab/honeynet">HoneyNet v1.0</a></h3>
+      <p><b>Multi-Vector Low-Interaction Honeypot &amp; SOC Telemetry Engine</b> &bull; <a href="https://github.com/Voobrazhenie21-lab/honeynet">[GitHub]</a> &bull; <a href="https://github.com/Voobrazhenie21-lab/honeynet/releases/tag/v1.0.0">[Release v1.0.0]</a></p>
+      <ul>
+        <li>Multi-vector honeypot (HTTP + SSH): emulates vulnerable endpoints (<code>/.env</code>, <code>/wp-login.php</code>, SSO) and an isolated interactive Bash shell.</li>
+        <li>Real-time threat scoring (0–100), Shannon entropy, ThreatPulse enrichment, and MITRE ATT&amp;CK mapping (<code>T1190</code>, <code>T1110</code>, <code>T1005</code>, <code>T1082</code>, <code>T1105</code>).</li>
+        <li><b>Embedded Web Dashboard</b> (port 8888), automated <b>Wazuh CDB blacklist</b> generation, Suricata drop rules, and Telegram/Webhook alerts.</li>
+        <li><i>Tech:</i> Zero-dependency stdlib core, asyncio, Docker containerization, <b>21 Pytest unit tests</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🐍 <a href="https://github.com/Voobrazhenie21-lab/code-python-project">MyProfile v2.0 (Security OOP)</a></h3>
       <p><b>Enterprise Python Security &amp; FIM Engine</b> &bull; <a href="https://github.com/Voobrazhenie21-lab/code-python-project">[GitHub Repo]</a></p>
       <ul>
         <li>Secure Object-Oriented Architecture implementing strict validation, data sanitization, and PII masking.</li>
         <li>Cryptographic File Integrity Monitoring (SHA-256 FIM) tracking real-time profile mutations.</li>
         <li>Automated security unit testing suite verifying edge cases, input sanitization, and tamper resistance.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://voobrazhenie21-lab.github.io/#threat-radar">3D Cyber Threat Radar</a></h3>
+      <p><b>Real-Time WebGL Globe &amp; Telemetry Inspector</b> &bull; <a href="https://voobrazhenie21-lab.github.io/">[Live Portfolio]</a></p>
+      <ul>
+        <li>Interactive Three.js 3D threat globe centered on Minsk SOC Hub.</li>
+        <li>Simulates ballistic attack arcs from Tor relays, DGA botnets, and ransomware C2 beacons.</li>
+        <li>Live telemetry feed and automated Wazuh CDB rule inspector.</li>
       </ul>
     </td>
   </tr>
